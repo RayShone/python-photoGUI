@@ -8,8 +8,6 @@ class ImageConverter:
     def __init__(self, root):
         self.root = root
         self.root.title("图片转换器")
-
-        # 输入框和按钮布局
         self.setup_input_layout()
 
         self.console_output = tk.Text(self.root, height=10, width=50)
