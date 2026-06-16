@@ -1,4 +1,4 @@
-# python-photoGUI
+﻿# python-photoGUI
 
 图片转字符串程序 —— 将图片的每个像素点替换为自定义字符，生成字符画风格的图片。
 
@@ -51,7 +51,7 @@ python-photoGUI/
 
 ## 更新日志
 
-### v1.1.0 (2025-06-16)
+### v1.1.0 (2026-06-17)
 - 🐛 修复：空自定义字符串导致 ZeroDivisionError 崩溃
 - 🐛 修复：字体路径硬编码 `simsun.ttc` 导致 OSError
 - 🐛 修复：灰度/调色板图片颜色异常
